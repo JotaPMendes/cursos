@@ -36,7 +36,7 @@ Recomendo iniciar sua exploração lendo o `README.md` localizado dentro de cada
 ## Exemplo de Curso Organizado
 
 Você pode encontrar um exemplo de como cada pasta de curso está estruturada em:
-* [**Classificação de Sentimento de Filmes (Estimado: 2020)**](classificacao_sentimento_filmes_2020/README.md)
+* [**Classificação de Sentimento de Filmes (Estimado: 2020)**](https://github.com/JotaPMendes/cursos/tree/main/classificacao_sentimento_filmes_2020)
     * Este curso foca em NLP e machine learning para análise de sentimento.
 
 ---
